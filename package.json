@@ -1,0 +1,25 @@
+{
+  "name": "multi-modals",
+  "version": "1.0.5",
+  "description": "",
+  "author": "vandat9xhn",
+  "license": "MIT",
+  "repository": "vandat9xhn/multi-modals",
+  "main": "dist/index.js",
+  "module": "dist/index.modern.js",
+  "source": "src/index.tsx",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "files": [
+    "dist"
+  ]
+}
